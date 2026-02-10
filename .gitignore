@@ -15,3 +15,5 @@ SerienStreamAPI/obj/
 
 SerienStreamAPI.Tests/bin/
 SerienStreamAPI.Tests/obj/
+config.bat
+node_modules
